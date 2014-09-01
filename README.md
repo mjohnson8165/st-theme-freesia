@@ -1,18 +1,7 @@
 Freesia Theme
 ==============================================================================
 
-Freesia is a dark, fairly low-contrast theme with a lot of purple. It's intended for use with dark to medium color schemes and currently includes dark, medium, and light variants.
-
-![Freesia Theme](https://github.com/nilium/st-theme-freesia/raw/master/screenshot.png)
-
-As of this writing, Freesia has only been tested in Sublime Text 3. You may attempt to use it in Sublime Text 2. If you encounter any bugs in ST2, please submit an issue or try to fix it yourself and submit a pull request. Either works.
-
-This theme is built from the default Sublime theme, but is inspired by my previous theme, the [Nil theme](https://github.com/nilium/st2-nil-theme), and the [Flat UI theme by acondiff](https://github.com/acondiff/flatui-theme), both of which might suit you better if you find the color purple repulsive for some reason.
-
-In addition, there are three other themes included in Freesia: Higuchi, Kano, and Void. Higuchi is a light theme while Kano is a medium-grey theme. Void, as the name suggests, is a very dark theme and mostly intended for working at night.
-
-The Freesia theme's included color schemes are _Proxy_ (medium), _Big Duo_ (dark), _Triplet_ (dark), _Triplet Lite_ (medium-dark), _Kalopsia_ (dark), and _Kalopsia Darker_ (darker still). You can see screenshots of the color schemes themselves in the Color Schemes section below.
-
+All credit goes to [Noel Cower](https://github.com/nilium) for the original [Freesia Theme](https://github.com/nilium/st-theme-freesia). This is a stripped down and slightly modified version of it, as it only contains the Void theme and the Tron Contrast color scheme from [Dayle Rees](https://github.com/daylerees)'s [Colour Schemes](https://github.com/daylerees/colour-schemes) pack. The only changes I made to the Void theme have something to do with the sidebar colors and maybe a few minor adjustments to the tab sizes and margins.
 
 Installation
 ------------------------------------------------------------------------------

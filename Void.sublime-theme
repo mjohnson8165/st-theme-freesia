@@ -7,6 +7,8 @@
 
         This theme's sublime-theme file is derived from the default
         Sublime Text 3 theme.
+        
+        Void theme modified to fit Dayle Rees's Tron Contrast theme.
     **************************************************************************/
 
     /**************************************************************************
@@ -285,25 +287,25 @@
     // Tree
     {
         "class": "sidebar_tree",
-        "row_padding": [12, 5, 16, 5],
+        "row_padding": [12, 6, 16, 6],
         "indent": 12,
         "indent_offset": 12,
         "indent_top_level": false,
-        "layer0.tint": [6, 6, 6],
+        "layer0.tint": [7, 9, 11],
         "layer0.opacity": 1.0,
         "dark_content": true
     },
 
     {
         "class": "sidebar_heading",
-        "color": [48, 94, 108],
+        "color": [0, 171, 221],
         "shadow_color": [0, 0, 0, 0],
         "shadow_offset": [0, 0]
     },
 
     {
         "class": "sidebar_label",
-        "color": [92, 92, 93]
+        "color": [90, 101, 117]
     },
 
     {
@@ -922,7 +924,7 @@
     {
         "class": "tabset_control",
         "settings": ["freesia_large_tabs"],
-        "tab_height": 38
+        "tab_height": 42
     },
 
     {

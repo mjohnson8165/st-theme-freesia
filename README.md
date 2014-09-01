@@ -17,7 +17,7 @@ With the repository cloned, you can now hop into your preferences and set the `t
 
     {
         // other preferences above...
-        "theme": "Freesia.sublime-theme"
+        "theme": "Void.sublime-theme"
     }
 
 And you should be good to go.
